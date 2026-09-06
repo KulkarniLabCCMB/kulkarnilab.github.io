@@ -4,9 +4,6 @@
    photo   filename inside assets/img/people/ — e.g. "pratik-khopkar.jpg"
            Leave "" and the card shows the person's initials instead.
    links   [{label, url}] — Scholar, ORCID, iNaturalist, personal site, etc.
-
-   NOTE FOR SIDDHARTH: roles below were inferred from your CV and news page.
-   Correct them here and they update across the whole site.
    ========================================================================== */
 
 window.PI = {
