@@ -11,7 +11,7 @@ window.PROJECTS = [
     status: "live",
     years: "2025\u2013",
     funder: "CSIR R&D Seed Fund",
-    amount: "\u20b9 35 lakh",
+    amount: "",
     people: "Arjun Cherukutty, Pratik Khopkar, Nithin K. A.",
     theme: "asymmetry",
     summary: "Some arthropod lineages have barely changed shape in hundreds of millions of years while their sister groups radiated wildly. We are testing whether that stasis is written into the genome \u2014 in gene family turnover, chromosome architecture and rates of molecular evolution."
@@ -21,7 +21,7 @@ window.PROJECTS = [
     status: "live",
     years: "2025\u2013",
     funder: "CSIR-CCMB Mission Laboratory Project",
-    amount: "\u20b9 30 lakh",
+    amount: "",
     people: "Lab-wide, with SpiderIndia observers",
     theme: "discovery",
     summary: "<i>Latrodectus hasselti</i> has established populations well outside its native range. We are reconstructing how and when it arrived in India, how much genetic diversity came with it, and what it may mean for native widow spiders and their prey."
@@ -31,7 +31,7 @@ window.PROJECTS = [
     status: "live",
     years: "2026\u2013",
     funder: "Prime Minister Early Career Research Grant, ANRF",
-    amount: "\u20b9 ~55 lakh",
+    amount: "",
     people: "Lab-wide",
     theme: "asymmetry",
     summary: "Ticks and mites number in the tens of thousands of species; their closest relatives number in the dozens. This project brings genome assemblies, phylogenomics and comparative methods together to ask what makes one lineage explode and the other stall."
@@ -41,7 +41,7 @@ window.PROJECTS = [
     status: "live",
     years: "2024\u2013",
     funder: "Ramanujan Fellowship, ANRF",
-    amount: "\u20b9 1.19 crore",
+    amount: "",
     people: "Jyoti Bhoi, Rushikesh Mule, Nishaad Savale",
     theme: "tree",
     summary: "Relationships among ticks and mites have resisted resolution for decades. By combining ancient gene linkages that survive across whole chromosomes with hundreds of ultraconserved elements, we recovered a stable backbone for the group \u2014 the lab's first published result.",
@@ -77,15 +77,5 @@ window.PROJECTS = [
     theme: "community",
     summary: "A long-running network of amateur naturalists, photographers and students documenting spiders across the Indian subcontinent on iNaturalist and the India Biodiversity Portal, with annual meets and Spider Week events.",
     link: { label: "About SpiderIndia", url: "spiderindia.html" }
-  },
-  {
-    title: "Probe sets for chelicerate phylogenomics",
-    status: "",
-    years: "2018\u2013",
-    funder: "Multiple",
-    amount: "",
-    people: "With Hannah Wood, Gustavo Hormiga, Prashant Sharma",
-    theme: "tree",
-    summary: "The Spider2Kv1 and Chelicerata ultraconserved element probe sets, designed in earlier work, are now used by labs worldwide to resolve nodes across the arachnid tree. We continue to extend and benchmark them."
   }
 ];
