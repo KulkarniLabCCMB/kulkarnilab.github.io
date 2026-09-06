@@ -1,7 +1,7 @@
 # Portrait photos
 
 Drop portraits here and name them exactly as written in `data/people.js`,
-for example `pratik-khopkar.jpg`.
+for example `name-lastname.jpg`.
 
 - Roughly square or slightly portrait (4:5 works best), at least 600 px wide.
 - Faces reasonably centred; the site crops to a 4:5 box.
