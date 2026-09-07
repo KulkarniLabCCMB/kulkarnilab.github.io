@@ -42,11 +42,11 @@ window.GROUPS = [
       },
       {
         name: "Pratik Khopkar", role: "Project Associate I", since: "2025", photo: "pratikkhopkar.jpg",
-        note: "Comparative genomics of Acari; genome erosion and gene family evolution.", links: []
+        note: "Molecular laboratory work, library preparation and sequencing.", links: []
       },
       {
         name: "Arjun Cherukutty", role: "Technical Assistant", since: "2025", photo: "arjunck.jpg",
-        note: "Molecular laboratory work, library preparation and sequencing.", links: []
+        note: "Comparative genomics of Acari; genome erosion and gene family evolution.", links: []
       }
     ]
   },
