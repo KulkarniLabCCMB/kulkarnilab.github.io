@@ -15,9 +15,9 @@ window.PI = {
   ],
   photo: "siddharth-kulkarni.jpg",
   bio: [
-    "I am fascinated by biodiversity and by what keeps it going. My work asks why some branches of the tree of life are staggeringly diverse while their close relatives are not, using chelicerates \u2014 spiders, ticks, mites, scorpions, whip spiders, camel spiders and their kin \u2014 as the test case.",
-    "Before starting the lab I completed a Ph.D. with Gustavo Hormiga at George Washington University on the spider tree of life and the miniature orb-weavers, and a postdoc with Prashant Sharma at the University of Wisconsin-Madison working on arachnid phylogenomics and genome architecture. Along the way I have described new species, new families and a chromosome-level genome or two.",
-    "Outside the lab I coordinate SpiderIndia, a community science network of more than 8,000 people across South Asia who photograph and document spiders. Much of what we know about where Indian spiders actually live comes from them."
+   "I am fascinated by origins of biodiversity and by what keeps it going despite multiple mass extinction events. My work asks why some branches of the tree of life are staggeringly diverse while their close relatives are not, using chelicerates including spiders, ticks, mites, scorpions, whip spiders, camel spiders as a study system.",
+    "Before starting the lab I completed a Ph.D. with Gustavo Hormiga at George Washington University on the spider tree of life and the miniature orb-weavers, and a postdoc with Prashant Sharma at the University of Wisconsin-Madison working on arachnid phylogenomics and genome architecture.",
+    "Outside the lab I coordinate SpiderIndia, a community science network of more than 9,000 people across South Asia who photograph and document spiders. Much of what we know about where Indian spiders actually live comes from them. Their contributions have led to the popular A field guide to the Spider Genera of India"
   ],
   links: [
     { label: "Google Scholar", url: "https://scholar.google.co.in/citations?user=xo9jTM0AAAAJ&hl=en" },
