@@ -493,34 +493,7 @@ PEOPLE = f"""
 
 <section class="section">
   <div class="shell">
-    <div class="person-lead">
-      <div class="person-photo" id="pi-photo">
-        <span class="initials" aria-hidden="true">SK</span>
-        <img src="assets/img/people/siddharth-kulkarni.jpg" alt="Siddharth Kulkarni"
-             onerror="this.remove()">
-      </div>
-      <div>
-        <h2>Siddharth Kulkarni</h2>
-        <p class="person-role">Principal Investigator</p>
-        <p class="small muted">ANRF Ramanujan Faculty Fellow, CSIR-Centre for Cellular and Molecular
-          Biology &middot; Assistant Professor, Academy of Scientific and Innovative Research (AcSIR)</p>
-        <p>I am fascinated by biodiversity and by what keeps it going. My work asks why some branches
-          of the tree of life are staggeringly diverse while their close relatives, of exactly the
-          same age, are not.</p>
-        <p>Before starting the lab I completed a Ph.D. with Gustavo Hormiga at George Washington
-          University on the spider tree of life and the miniature orb-weavers, and a postdoc with
-          Prashant Sharma at the University of Wisconsin-Madison on arachnid phylogenomics and genome
-          architecture. Along the way I have described new species, three new families, and a
-          chromosome-level genome or two.</p>
-        <p>Outside the lab I coordinate SpiderIndia, a community science network of more than 8,000
-          people across South Asia. Much of what we know about where Indian spiders actually live
-          comes from them.</p>
-        <p class="small"><a href="https://scholar.google.co.in/citations?user=xo9jTM0AAAAJ&amp;hl=en">Google Scholar</a>
-          &nbsp; <a href="https://www.researchgate.net/profile/Siddharth_Kulkarni6">ResearchGate</a>
-          &nbsp; <a href="https://github.com/sskspider">GitHub</a>
-          &nbsp; <a href="mailto:siddharth@csirccmb.org">Email</a></p>
-      </div>
-    </div>
+    <div class="person-lead" data-pi></div>
   </div>
 </section>
 
@@ -748,7 +721,7 @@ JOIN = f"""
     <dl class="rows">
       <div class="row">
         <dt>Step one</dt>
-        <dd>Apply through the <a href="https://www.ccmb.res.in/Academics/PhD-Program">CCMB portal</a>
+        <dd>Apply through the <a href="https://www.ccmb.res.in/academics/#phd-sec">CCMB portal</a>
           and select the <strong>LaCONES only</strong> option. Upload your statement of purpose with
           the online application.</dd>
       </div>
@@ -975,14 +948,14 @@ CONTACT = f"""
         <dt>Profiles</dt>
         <dd><a href="https://scholar.google.co.in/citations?user=xo9jTM0AAAAJ&amp;hl=en">Google Scholar</a>
           &nbsp; <a href="https://www.researchgate.net/profile/Siddharth_Kulkarni6">ResearchGate</a>
-          &nbsp; <a href="https://github.com/sskspider">GitHub</a></dd>
+          &nbsp; <a href="https://github.com/kulkarni-lab">GitHub</a></dd>
       </div>
       <div class="row">
         <dt>SpiderIndia</dt>
         <dd><a href="https://www.inaturalist.org/projects/spiderindia">iNaturalist</a>
           &nbsp; <a href="https://www.facebook.com/groups/SpiderIndia/">Facebook group</a>
           &nbsp; <a href="https://indiabiodiversity.org/group/spiderindia/show">India Biodiversity Portal</a><br>
-          <a href="mailto:spiderindia.in@gmail.com">spiderindia.in@gmail.com</a></dd>
+          <a href="mailto:siddharth@csirccmb.org">siddharth@csirccmb.org</a></dd>
       </div>
       <div class="row">
         <dt>Press</dt>
