@@ -37,7 +37,7 @@ window.GROUPS = [
         note: "The lab's in-house expert on spider identification and morphology.", links: []
       },
       {
-        name: "Nithin K. A.", role: "Project Associate I", since: "2026", photo: "",
+        name: "Nithin K. A.", role: "Project Associate I", since: "2026", photo: "nithinka.jpeg",
         note: "Genomics and computational work on chelicerate diversification.", links: []
       },
       {
