@@ -22,7 +22,7 @@ window.PI = {
   links: [
     { label: "Google Scholar", url: "https://scholar.google.co.in/citations?user=xo9jTM0AAAAJ&hl=en" },
     { label: "ResearchGate", url: "https://www.researchgate.net/profile/Siddharth_Kulkarni6" },
-    { label: "GitHub", url: "https://github.com/sskspider" }
+    { label: "GitHub", url: "https://github.com/kulkarni-lab" }
   ]
 };
 
