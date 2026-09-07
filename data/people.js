@@ -33,7 +33,7 @@ window.GROUPS = [
     blurb: "Doctoral students, project staff and research assistants based at LaCONES, CSIR-CCMB.",
     people: [
       {
-        name: "Shripad Manthen", role: "Spider taxonomist", since: "2026", photo: "",
+        name: "Shripad Manthen", role: "Spider taxonomist", since: "2026", photo: "smanthen.jpeg",
         note: "The lab's in-house expert on spider identification and morphology.", links: []
       },
       {
@@ -45,7 +45,7 @@ window.GROUPS = [
         note: "Molecular laboratory work, library preparation and sequencing.", links: []
       },
       {
-        name: "Arjun Cherukutty", role: "Technical Assistant", since: "2025", photo: "arjunck.jpg",
+        name: "Arjun Cherukutty", role: "Technical Assistant", since: "2025", photo: "arjunck.jpg.jpeg",
         note: "Comparative genomics of Acari; genome erosion and gene family evolution.", links: []
       }
     ]
