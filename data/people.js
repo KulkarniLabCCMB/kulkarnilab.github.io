@@ -41,7 +41,7 @@ window.GROUPS = [
         note: "Genomics and computational work on chelicerate diversification.", links: []
       },
       {
-        name: "Pratik Khopkar", role: "Project Associate I", since: "2025", photo: "pratikkhopkar.jpg",
+        name: "Pratik Khopkar", role: "Project Associate I", since: "2025", photo: "pratikkhopkar.jpg.jpeg",
         note: "Molecular laboratory work, library preparation and sequencing.", links: []
       },
       {
