@@ -109,6 +109,29 @@
     return '<div class="person-photo">' + fallback + "</div>";
   }
 
+  function renderPI() {
+    var host = document.querySelector("[data-pi]");
+    if (!host || !window.PI) return;
+    var pi = window.PI;
+
+    var titles = (pi.titles || []).join(" &middot; ");
+    var bio = (pi.bio || []).map(function (para) { return "<p>" + para + "</p>"; }).join("");
+    var links = (pi.links || []).map(function (l) {
+      return '<a href="' + l.url + '">' + l.label + "</a>";
+    });
+    links.push('<a href="mailto:siddharth@csirccmb.org">Email</a>');
+
+    host.innerHTML =
+      photoBlock(pi, "people") +
+      "<div>" +
+        "<h2>" + pi.name + "</h2>" +
+        '<p class="person-role">' + pi.role + "</p>" +
+        (titles ? '<p class="small muted">' + titles + "</p>" : "") +
+        bio +
+        '<p class="small">' + links.join(" &nbsp; ") + "</p>" +
+      "</div>";
+  }
+
   function renderPeople() {
     var host = document.querySelector("[data-people]");
     if (!host || !window.GROUPS) return;
@@ -283,6 +306,7 @@
     initNav();
     initTree();
     renderNews();
+    renderPI();
     renderPeople();
     renderProjects();
     renderPublications();
