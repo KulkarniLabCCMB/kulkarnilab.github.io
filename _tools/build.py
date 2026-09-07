@@ -16,7 +16,7 @@ ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 
 SITE = "BiomE Lab"
 TAGLINE = "Biodiversity Genomics &amp; Evolution"
-BASE_URL = "https://sskspider.com"
+BASE_URL = "https://kulkarni-lab.github.io"
 
 NAV = [
     ("research.html", "Research"),
@@ -123,7 +123,7 @@ FOOT = """</main>
         <h4>Elsewhere</h4>
         <ul>
           <li><a href="https://scholar.google.co.in/citations?user=xo9jTM0AAAAJ&amp;hl=en">Google Scholar</a></li>
-          <li><a href="https://github.com/sskspider">GitHub</a></li>
+          <li><a href="https://github.com/kulkarni-lab">GitHub</a></li>
           <li><a href="https://www.inaturalist.org/projects/spiderindia">SpiderIndia on iNaturalist</a></li>
           <li><a href="https://www.ccmb.res.in/">CSIR-CCMB</a></li>
         </ul>
