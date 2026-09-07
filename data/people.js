@@ -33,10 +33,6 @@ window.GROUPS = [
     blurb: "Doctoral students, project staff and research assistants based at LaCONES, CSIR-CCMB.",
     people: [
       {
-        name: "Neel Ganguly", role: "Ph.D. student", since: "2026", photo: "",
-        note: "Co-supervised doctoral research at CSIR-CCMB.", links: []
-      },
-      {
         name: "Shripad Manthen", role: "Spider taxonomist", since: "2026", photo: "",
         note: "The lab's in-house expert on spider identification and morphology.", links: []
       },
