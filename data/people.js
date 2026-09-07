@@ -51,10 +51,6 @@ window.GROUPS = [
       {
         name: "Arjun Cherukutty", role: "Technical Assistant", since: "2025", photo: "arjunck.jpg",
         note: "Molecular laboratory work, library preparation and sequencing.", links: []
-      },
-      {
-        name: "Dibyo Mazumder", role: "Research member", since: "2025", photo: "",
-        note: "Acarine comparative genomics.", links: []
       }
     ]
   },
