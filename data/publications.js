@@ -17,22 +17,28 @@
 
 window.PUBLICATIONS = [
   {
-    n: 42, year: 2026, status: "submitted",
+    n: 43, year: 2026, status: "submitted",
     authors: "<u>Arjun Cherukutty</u>, <u>Pratik Khopkar</u>, <u>Shreya Salunkhe</u>, <u>Dibyo Mazumder</u>, <b>Siddharth Kulkarni</b>*",
     title: "Ancestral genomic stasis and coordinated genome erosion underlie asymmetric acarine diversification",
     venue: "Cladistics", detail: "", tags: ["genomics", "acari"], url: ""
   },
   {
-    n: 41, year: 2026, status: "preprint",
+    n: 42, year: 2026, status: "preprint",
     authors: "Erika Garcia, <b>Siddharth Kulkarni</b>, Matthew Graham, Carlos Santibanez-Lopez, Prashant Sharma",
     title: "Comparative genomics of the unusual arachnid order Solifugae spotlight the molecular and genetic basis for adaptations to arid habitats",
-    venue: "bioRxiv", detail: "", tags: ["genomics", "solifugae"], url: ""
+    venue: "bioRxiv", detail: "", tags: ["genomics", "solifugae"], url: "https://www.biorxiv.org/content/10.64898/2026.06.25.734573v1.abstract"
+  },
+  {
+    n: 41, year: 2026, status: "submitted",
+    authors: "<b>Siddharth Kulkarni</b>, Benjamin Klementz, Jesus Ballesteros, Kaitlyn Abshire, Tauana J. Cunha, … , Prashant Sharma",
+    title: "No silver bullet: patterns of macrosynteny recapitulate systemic conflicts in the higher-level relationships of the arachnids",
+    venue: "Molecular Biology and Evolution", detail: "", tags: ["genomics", "phylogenomics"], url: "https://www.biorxiv.org/content/10.64898/2026.06.22.733561v1.abstract"
   },
   {
     n: 40, year: 2026, status: "submitted",
-    authors: "<b>Siddharth Kulkarni</b>, Benjamin Klementz, Jesus Ballesteros, Kaitlyn Abshire, Tauana J. Cunha, … , Prashant Sharma",
-    title: "No silver bullet: patterns of macrosynteny recapitulate systemic conflicts in the higher-level relationships of the arachnids",
-    venue: "Molecular Biology and Evolution", detail: "", tags: ["genomics", "phylogenomics"], url: ""
+    authors: "Erika L. Garcia , Zeana Ganem , <b>Siddharth Kulkarni</b>, Ilil Perl , Prashant P. Sharma, Efrat Gavish-Regev",
+    title: "Genomic insights unveil taxonomic incongruities and evolutionary origins of solifuges across the southern Levant",
+    venue: "Molecular Phylogenetics and Evolution", detail: "", tags: ["genomics", "phylogenomics"], url: "https://www.sciencedirect.com/science/article/pii/S1055790326000242"
   },
   {
     n: 39, year: 2026, status: "",
