@@ -67,29 +67,19 @@ window.GROUPS = [
         name: "Neha Tambe", role: "Research intern", Summer: "2026", photo: "",
         note: "D. Y. Patil University, Pune.", links: []
       },
-      {
-        name: "Rushikesh Mule", role: "BS-MS student", Varsha: "2024", photo: "",
-        note: "IISER Thiruvananthapuram. Acari phylogenomics.", links: []
-      },
-      {
-        name: "Jyoti Bhoi", role: "BS-MS student", Varsha: "2024", photo: "",
-        note: "IISER Thiruvananthapuram. Ancient gene linkages in Acari.", links: []
-      },
-      {
-        name: "Nishaad Savale", role: "BS-MS student", Varsha: "2024", photo: "",
-        note: "IISER Thiruvananthapuram. Ultraconserved elements in Acari.", links: []
-      },
-      {
-        name: "Sweta Acharjya", role: "BS-MS student", Varsha: "2024", photo: "",
-        note: "IISER Thiruvananthapuram.", links: []
-      }
-    ]
+   ]
   }
 ];
 
 /* Past members and mentees. Shown as a simple list rather than cards. */
 window.ALUMNI = [
-  { name: "Meghana Balija", detail: "Summer Training Programme 2025, Sri Padmavati Mahila Visvavidyalayam, Tirupati \u2014 the first student in the lab" },
+  { name: "Rohan Gaurkar", detail: "Research internship, Dr. B. S. Konkan Krishi Vidyapeeth, Dapoli, Maharashtra, India \u2014 Systematics of stingless bees" },
+  { name: "Meghana Balija", detail: "Summer Training Programme 2025, Sri Padmavati Mahila Visvavidyalayam, Tirupati \u2014 the first student in the new lab" },
+  { name: "Sweta Acharjya", detail: "IISER Thiruvananthapuram, Varsha 2024 \u2014 Machine learning" },
+  { name: "Nishaad Savale", detail: "IISER Thiruvananthapuram, Varsha 2024 \u2014 UCE phylogenomics" },
+  { name: "Jyoti Bhoi", detail: "IISER Thiruvananthapuram, Varsha 2024 \u2014 UCE phylogenomics" },
+  { name: "Rushikesh Mule", detail: "IISER Thiruvananthapuram, Varsha 2024 \u2014 UCE phylogenomics" },
+  { name: "Brooke Pellegrini", detail: "George Washington University, 2019 \u2014 spider curation and identification" },
   { name: "Hugh Steiner", detail: "University of Wisconsin-Madison, 2022\u20132023 \u2014 UCE library preparation and analysis" },
   { name: "Brooke Pellegrini", detail: "George Washington University, 2019 \u2014 spider curation and identification" },
 ];
