@@ -52,7 +52,7 @@ window.PUBLICATIONS = [
     authors: "Benjamin Klementz, <b>Siddharth Kulkarni</b>, Kaitlyn Abshire, Prashant Sharma",
     title: "Exploring genome architecture as a source of phylogenetic characters for resolving the apulmonate arachnid polytomy",
     venue: "Molecular Phylogenetics and Evolution", detail: "210: 108380 · shared first authorship",
-    tags: ["genomics", "phylogenomics"], url: ""
+    tags: ["genomics", "phylogenomics"], url: "https://www.sciencedirect.com/science/article/pii/S1055790325000971"
   },
   {
     n: 37, year: 2025, status: "",
