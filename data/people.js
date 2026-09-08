@@ -60,27 +60,27 @@ window.GROUPS = [
         note: "IISER Thiruvananthapuram.", links: []
       },
       {
-        name: "Shreya Salunkhe", role: "Dissertation research trainee", since: "2025", photo: "",
+        name: "Shreya Salunkhe", role: "Dissertation research trainee", since: "2025-2026", photo: "",
         note: "CSIR-CCMB Dissertation Research Training Programme; from IISER Thiruvananthapuram.", links: []
       },
       {
-        name: "Neha Tambe", role: "Research intern", since: "2026", photo: "",
+        name: "Neha Tambe", role: "Research intern", Summer: "2026", photo: "",
         note: "D. Y. Patil University, Pune.", links: []
       },
       {
-        name: "Rushikesh Mule", role: "BS-MS student", since: "2024", photo: "",
+        name: "Rushikesh Mule", role: "BS-MS student", Varsha: "2024", photo: "",
         note: "IISER Thiruvananthapuram. Acari phylogenomics.", links: []
       },
       {
-        name: "Jyoti Bhoi", role: "BS-MS student", since: "2024", photo: "",
+        name: "Jyoti Bhoi", role: "BS-MS student", Varsha: "2024", photo: "",
         note: "IISER Thiruvananthapuram. Ancient gene linkages in Acari.", links: []
       },
       {
-        name: "Nishaad Savale", role: "BS-MS student", since: "2024", photo: "",
+        name: "Nishaad Savale", role: "BS-MS student", Varsha: "2024", photo: "",
         note: "IISER Thiruvananthapuram. Ultraconserved elements in Acari.", links: []
       },
       {
-        name: "Sweta Acharjya", role: "BS-MS student", since: "2024", photo: "",
+        name: "Sweta Acharjya", role: "BS-MS student", Varsha: "2024", photo: "",
         note: "IISER Thiruvananthapuram.", links: []
       }
     ]
@@ -90,8 +90,6 @@ window.GROUPS = [
 /* Past members and mentees. Shown as a simple list rather than cards. */
 window.ALUMNI = [
   { name: "Meghana Balija", detail: "Summer Training Programme 2025, Sri Padmavati Mahila Visvavidyalayam, Tirupati \u2014 the first student in the lab" },
-  { name: "Benjamin Klementz", detail: "University of Wisconsin-Madison, 2022\u20132023 \u2014 UCE library preparation and analysis" },
   { name: "Hugh Steiner", detail: "University of Wisconsin-Madison, 2022\u20132023 \u2014 UCE library preparation and analysis" },
   { name: "Brooke Pellegrini", detail: "George Washington University, 2019 \u2014 spider curation and identification" },
-  { name: "Dheeraj Halali", detail: "Parvatibai Chowgule College, Goa, 2016 \u2014 remote mentoring" }
 ];
