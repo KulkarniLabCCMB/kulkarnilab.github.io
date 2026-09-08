@@ -60,7 +60,7 @@ window.GROUPS = [
         note: "IISER Thiruvananthapuram.", links: []
       },
       {
-        name: "Shreya Salunkhe", role: "Dissertation research trainee", since: "2025-2026", photo: "",
+        name: "Shreya Salunkhe", role: "Dissertation research trainee", AY: "2025-2026", photo: "",
         note: "CSIR-CCMB Dissertation Research Training Programme; from IISER Thiruvananthapuram.", links: []
       },
       {
