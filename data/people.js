@@ -56,15 +56,15 @@ window.GROUPS = [
     blurb: "Masters, dissertation and internship students working with the lab, including co-supervised students at IISER Thiruvananthapuram.",
     people: [
       {
-        name: "Aakashkumar Pathak", role: "Ph.D. student, co-supervised", since: "2024", photo: "",
+        name: "Aakashkumar Pathak", role: "Ph.D. student, co-supervised", since: "2024", photo: "AakashT.jpg",
         note: "IISER Thiruvananthapuram.", links: []
       },
       {
-        name: "Shreya Salunkhe", role: "Dissertation research trainee", AY: "2025-2026", photo: "",
+        name: "Shreya Salunkhe", role: "Dissertation research trainee", AY: "2025-2026", photo: "ShreyaS.jpg",
         note: "CSIR-CCMB Dissertation Research Training Programme; from IISER Thiruvananthapuram.", links: []
       },
       {
-        name: "Neha Tambe", role: "Research intern", Summer: "2026", photo: "",
+        name: "Neha Tambe", role: "Research intern", Summer: "2026", photo: "NehaT.jpg",
         note: "D. Y. Patil University, Pune.", links: []
       },
    ]
